@@ -75,5 +75,5 @@ public class HomePageM extends Base {
 		return loginButton.isEnabled();
 	}
 	
-	//I'm changing homepage file. 
+	//I'm changing homepage file.
 }

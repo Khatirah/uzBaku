@@ -31,7 +31,7 @@ public class CukesRunner {
  WebServices testing -one application talking to another application
  
  //this is Elnar adding first note.
-  * this is khatirah making changes
+  * this is khatirah making changes..
  
  */
 
